@@ -24,7 +24,7 @@ var y = d3.scaleLinear()
  .range([height - margin.bottom, margin.top]);
 
 svg.append('g')
- .attr('fill', 'red')
+ .attr('fill', 'green')
  .selectAll('rect')
  .data(data.sort((a, b) => d3.descending(a.score, b.score)))
  .join('rect')
