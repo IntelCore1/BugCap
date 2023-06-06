@@ -1,6 +1,6 @@
 var data = [
-    { ScrumTeamName: 'Cha-Ching', score: 4},
-    { ScrumTeamName: 'INDHAN', score: 1},
+    { ScrumTeamName: 'Cha-Ching', score: 2},
+    { ScrumTeamName: 'INDHAN', score: 0},
     { ScrumTeamName: 'Ka-Chow', score: 1},
 ];
 
